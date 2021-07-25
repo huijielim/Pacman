@@ -18,7 +18,7 @@ MIT License
 - images/pacman2
 - images/pacman3
 - images/pacman4
-- Index.html
+- index.html
 - pacmen.js
 
 
